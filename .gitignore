@@ -37,6 +37,8 @@ images_testing/
 #This file contains the keys and some necessary values for the program
 config.py
 
+*assets
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
